@@ -67,7 +67,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm Luis Lazo, an IT intern at CMIT Solutions of Sandy in Utah (Remote), pursuing a Bachelor of Applied Science in Information Technology through BYU Pathway and Ensign College.\n\nIn the internship I develop skills in:\n- **Cloud Infrastructure**: AWS (EC2, S3, VPC, IAM, CloudWatch, RDS)\n- **IT Support**: Ticketing with AutoTask, ITGlue, Sophos cybersecurity\n- **Business Ops**: Integrations, project management (Scrum/SMART)\n\n Feel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme)",
+        text: "I'm Luis Lazo, an IT intern at CMIT Solutions of Sandy in Utah (Remote), pursuing a Bachelor of Applied Science in Information Technology through BYU Pathway and Ensign College.\n\nIn the internship I develop skills in:\n **IT Support**: Ticketing with AutoTask, ITGlue, Sophos cybersecurity\n- **Business Ops**: Integrations, project management (Scrum/SMART)\n\n Feel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme)",
         image: {
             src: portada,
             alt: 'A person sitting at a desk in front of a computer'
