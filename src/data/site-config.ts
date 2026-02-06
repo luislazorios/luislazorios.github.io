@@ -56,17 +56,14 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/luislazo-cp/'
         },
         {
             text: 'Instagram',
-            href: 'https://instagram.com/'
+            href: 'https://instagram.com/lusholr'
         },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
-        }
+        
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
