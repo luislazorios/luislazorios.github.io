@@ -25,7 +25,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Certifications',
-            href: '/certifications'
+            href: '/projects'
         },
         {
             text: 'Blog',
